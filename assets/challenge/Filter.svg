@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="788" viewBox="0 0 412 788">
+  <defs>
+    <clipPath id="clip-Filter">
+      <rect width="412" height="788"/>
+    </clipPath>
+  </defs>
+  <g id="Filter" clip-path="url(#clip-Filter)">
+    <rect width="412" height="788" fill="#fff"/>
+    <line id="Line_26" data-name="Line 26" x2="411.5" transform="translate(0.5 87.5)" fill="none" stroke="#dedede" stroke-width="1"/>
+    <text id="Clear" transform="translate(349 52)" font-size="16" font-family="Helvetica" text-decoration="underline"><tspan x="0" y="0">Clear</tspan></text>
+    <g id="Group_79" data-name="Group 79">
+      <text id="Filter_Sort" data-name="Filter &amp; Sort" transform="translate(58 52)" font-size="16" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Filter &amp; Sort</tspan></text>
+      <g id="Icon_feather-arrow-left" data-name="Icon feather-arrow-left" transform="translate(17.5 33.168)">
+        <path id="Path_10" data-name="Path 10" d="M13.332,19.165,7.5,13.332,13.332,7.5" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <line id="Line_30" data-name="Line 30" x2="362" transform="translate(25 547)" fill="none" stroke="#dedede" stroke-width="1"/>
+    <text id="Sofas" transform="translate(58 140)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Sofas</tspan></text>
+    <text id="Beds" transform="translate(58 188)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Beds</tspan></text>
+    <text id="Tables" transform="translate(58 235)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Tables</tspan></text>
+    <text id="Cabinets" transform="translate(58 379)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Cabinets</tspan></text>
+    <g id="Rectangle_104" data-name="Rectangle 104" transform="translate(25 621)" fill="none" stroke="#b8b8b8" stroke-width="1">
+      <rect width="17" height="17" rx="8.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="8" fill="none"/>
+    </g>
+    <text id="Best_Selling" data-name="Best Selling" transform="translate(58 635)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Best Selling</tspan></text>
+    <text id="TV_Stands" data-name="TV Stands" transform="translate(58 283)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">TV Stands</tspan></text>
+    <text id="Dressers" transform="translate(58 426)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Dressers</tspan></text>
+    <g id="Rectangle_105" data-name="Rectangle 105" transform="translate(25 670)" fill="none" stroke="#b8b8b8" stroke-width="1">
+      <rect width="17" height="17" rx="8.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="8" fill="none"/>
+    </g>
+    <text id="Price_low_to_high" data-name="Price, low to high" transform="translate(58 683)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Price, low to high</tspan></text>
+    <text id="Wardrobes" transform="translate(58 331)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Wardrobes</tspan></text>
+    <g id="Rectangle_103" data-name="Rectangle 103" transform="translate(25 573)" fill="#fff" stroke="#000" stroke-width="5">
+      <rect width="17" height="17" rx="8.5" stroke="none"/>
+      <rect x="2.5" y="2.5" width="12" height="12" rx="6" fill="none"/>
+    </g>
+    <text id="Discounts" transform="translate(58 587)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Discounts</tspan></text>
+    <text id="Other" transform="translate(58 474)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Other</tspan></text>
+    <g id="Rectangle_106" data-name="Rectangle 106" transform="translate(25 718)" fill="none" stroke="#b8b8b8" stroke-width="1">
+      <rect width="17" height="17" rx="8.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="8" fill="none"/>
+    </g>
+    <text id="Price_high_to_low" data-name="Price, high to low" transform="translate(58 731)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Price, high to low</tspan></text>
+    <text id="Sort" transform="translate(25 532)" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Sort</tspan></text>
+    <g id="Component_3_7" data-name="Component 3 – 7" transform="translate(25 125)">
+      <g id="Rectangle_39" data-name="Rectangle 39" fill="none" stroke="#b8b8b8" stroke-width="1">
+        <rect width="17" height="17" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="4.5" fill="none"/>
+      </g>
+      <path id="Icon_feather-check" data-name="Icon feather-check" d="M12.75,9,8.109,13.641,6,11.531" transform="translate(-0.875 -2.82)" fill="none" stroke="#fff" stroke-width="1" opacity="0"/>
+    </g>
+    <g id="Component_3_7-2" data-name="Component 3 – 7" transform="translate(25 173)">
+      <g id="Rectangle_39-2" data-name="Rectangle 39" fill="none" stroke="#b8b8b8" stroke-width="1">
+        <rect width="17" height="17" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="4.5" fill="none"/>
+      </g>
+      <path id="Icon_feather-check-2" data-name="Icon feather-check" d="M12.75,9,8.109,13.641,6,11.531" transform="translate(-0.875 -2.82)" fill="none" stroke="#fff" stroke-width="1" opacity="0"/>
+    </g>
+    <g id="Component_3_7-3" data-name="Component 3 – 7" transform="translate(25 220)">
+      <g id="Rectangle_39-3" data-name="Rectangle 39" fill="none" stroke="#b8b8b8" stroke-width="1">
+        <rect width="17" height="17" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="4.5" fill="none"/>
+      </g>
+      <path id="Icon_feather-check-3" data-name="Icon feather-check" d="M12.75,9,8.109,13.641,6,11.531" transform="translate(-0.875 -2.82)" fill="none" stroke="#fff" stroke-width="1" opacity="0"/>
+    </g>
+    <g id="Component_3_7-4" data-name="Component 3 – 7" transform="translate(25 268)">
+      <g id="Rectangle_39-4" data-name="Rectangle 39" fill="none" stroke="#b8b8b8" stroke-width="1">
+        <rect width="17" height="17" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="4.5" fill="none"/>
+      </g>
+      <path id="Icon_feather-check-4" data-name="Icon feather-check" d="M12.75,9,8.109,13.641,6,11.531" transform="translate(-0.875 -2.82)" fill="none" stroke="#fff" stroke-width="1" opacity="0"/>
+    </g>
+    <g id="Component_3_7-5" data-name="Component 3 – 7" transform="translate(25 316)">
+      <rect id="Rectangle_39-5" data-name="Rectangle 39" width="17" height="17" rx="5"/>
+      <path id="Icon_feather-check-5" data-name="Icon feather-check" d="M12.75,9,8.109,13.641,6,11.531" transform="translate(-0.875 -2.82)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+    <g id="Component_3_7-6" data-name="Component 3 – 7" transform="translate(25 364)">
+      <rect id="Rectangle_39-6" data-name="Rectangle 39" width="17" height="17" rx="5"/>
+      <path id="Icon_feather-check-6" data-name="Icon feather-check" d="M12.75,9,8.109,13.641,6,11.531" transform="translate(-0.875 -2.82)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+    <g id="Component_3_7-7" data-name="Component 3 – 7" transform="translate(25 411)">
+      <rect id="Rectangle_39-7" data-name="Rectangle 39" width="17" height="17" rx="5"/>
+      <path id="Icon_feather-check-7" data-name="Icon feather-check" d="M12.75,9,8.109,13.641,6,11.531" transform="translate(-0.875 -2.82)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+    <g id="Component_3_7-8" data-name="Component 3 – 7" transform="translate(25 459)">
+      <g id="Rectangle_39-8" data-name="Rectangle 39" fill="none" stroke="#b8b8b8" stroke-width="1">
+        <rect width="17" height="17" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="4.5" fill="none"/>
+      </g>
+      <path id="Icon_feather-check-8" data-name="Icon feather-check" d="M12.75,9,8.109,13.641,6,11.531" transform="translate(-0.875 -2.82)" fill="none" stroke="#fff" stroke-width="1" opacity="0"/>
+    </g>
+  </g>
+</svg>

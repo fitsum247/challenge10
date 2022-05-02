@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="788" viewBox="0 0 412 788">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 300 150">
+      <image width="300" height="150" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACWCAYAAABkW7XSAAAABHNCSVQICAgIfAhkiAAABGJJREFUeF7t1AEJAAAMAsHZv/RyPNwSyDncOQIECEQEFskpJgECBM5geQICBDICBitTlaAECBgsP0CAQEbAYGWqEpQAAYPlBwgQyAgYrExVghIgYLD8AAECGQGDlalKUAIEDJYfIEAgI2CwMlUJSoCAwfIDBAhkBAxWpipBCRAwWH6AAIGMgMHKVCUoAQIGyw8QIJARMFiZqgQlQMBg+QECBDICBitTlaAECBgsP0CAQEbAYGWqEpQAAYPlBwgQyAgYrExVghIgYLD8AAECGQGDlalKUAIEDJYfIEAgI2CwMlUJSoCAwfIDBAhkBAxWpipBCRAwWH6AAIGMgMHKVCUoAQIGyw8QIJARMFiZqgQlQMBg+QECBDICBitTlaAECBgsP0CAQEbAYGWqEpQAAYPlBwgQyAgYrExVghIgYLD8AAECGQGDlalKUAIEDJYfIEAgI2CwMlUJSoCAwfIDBAhkBAxWpipBCRAwWH6AAIGMgMHKVCUoAQIGyw8QIJARMFiZqgQlQMBg+QECBDICBitTlaAECBgsP0CAQEbAYGWqEpQAAYPlBwgQyAgYrExVghIgYLD8AAECGQGDlalKUAIEDJYfIEAgI2CwMlUJSoCAwfIDBAhkBAxWpipBCRAwWH6AAIGMgMHKVCUoAQIGyw8QIJARMFiZqgQlQMBg+QECBDICBitTlaAECBgsP0CAQEbAYGWqEpQAAYPlBwgQyAgYrExVghIgYLD8AAECGQGDlalKUAIEDJYfIEAgI2CwMlUJSoCAwfIDBAhkBAxWpipBCRAwWH6AAIGMgMHKVCUoAQIGyw8QIJARMFiZqgQlQMBg+QECBDICBitTlaAECBgsP0CAQEbAYGWqEpQAAYPlBwgQyAgYrExVghIgYLD8AAECGQGDlalKUAIEDJYfIEAgI2CwMlUJSoCAwfIDBAhkBAxWpipBCRAwWH6AAIGMgMHKVCUoAQIGyw8QIJARMFiZqgQlQMBg+QECBDICBitTlaAECBgsP0CAQEbAYGWqEpQAAYPlBwgQyAgYrExVghIgYLD8AAECGQGDlalKUAIEDJYfIEAgI2CwMlUJSoCAwfIDBAhkBAxWpipBCRAwWH6AAIGMgMHKVCUoAQIGyw8QIJARMFiZqgQlQMBg+QECBDICBitTlaAECBgsP0CAQEbAYGWqEpQAAYPlBwgQyAgYrExVghIgYLD8AAECGQGDlalKUAIEDJYfIEAgI2CwMlUJSoCAwfIDBAhkBAxWpipBCRAwWH6AAIGMgMHKVCUoAQIGyw8QIJARMFiZqgQlQMBg+QECBDICBitTlaAECBgsP0CAQEbAYGWqEpQAAYPlBwgQyAgYrExVghIgYLD8AAECGQGDlalKUAIEDJYfIEAgI2CwMlUJSoCAwfIDBAhkBAxWpipBCRAwWH6AAIGMgMHKVCUoAQIGyw8QIJARMFiZqgQlQMBg+QECBDICBitTlaAECBgsP0CAQEbAYGWqEpQAgQdWMQCX4yW9owAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <linearGradient id="linear-gradient" x1="0.057" y1="-0.095" x2="0.918" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d629ff"/>
+      <stop offset="1" stop-color="#00cbff"/>
+    </linearGradient>
+    <clipPath id="clip-Loading">
+      <rect width="412" height="788"/>
+    </clipPath>
+  </defs>
+  <g id="Loading" clip-path="url(#clip-Loading)">
+    <rect width="412" height="788" fill="#fff"/>
+    <line id="Line_26" data-name="Line 26" x2="411.5" transform="translate(0.5 87.5)" fill="none" stroke="#dedede" stroke-width="1"/>
+    <text id="Your_order_is_being_processed." data-name="Your order is being processed." transform="translate(98 434)" font-size="20" font-family="Helvetica"><tspan x="-83.574" y="15">Your order is being </tspan><tspan x="-48.916" y="38">processed.</tspan></text>
+    <rect id="lf30_editor_lsk022ra" width="218" height="110" transform="translate(97 304)" fill="url(#pattern)"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(145 31)">
+      <path id="temp_formal-459D594D59_temp" d="M32.4,3H15.438A15.4,15.4,0,0,0,0,18.386a15.117,15.117,0,0,0,.346,3.243c0,.012,0,.025,0,.033a15.367,15.367,0,0,0,4.742,8.147.185.185,0,0,1,.034.029A15.414,15.414,0,0,0,27.13,8.33ZM6.117,18.067V18.03a9.329,9.329,0,0,1,12.167-8.5l.013,0a9.342,9.342,0,0,1,5.966,5.834.013.013,0,0,0,0,.009v.008s0,.009,0,.012a.113.113,0,0,0,.009.034,9.152,9.152,0,0,1,.487,2.956,9.34,9.34,0,0,1-13.425,8.358l-.013-.009a9.3,9.3,0,0,1-5.221-8.349C6.108,18.283,6.108,18.171,6.117,18.067Z" transform="translate(0 -3)" fill="url(#linear-gradient)"/>
+      <text id="Shoplly" transform="translate(47 23.731)" font-size="22" font-family="Gilroy-Bold" font-weight="700"><tspan x="0" y="0">Shoplly</tspan></text>
+    </g>
+  </g>
+</svg>
