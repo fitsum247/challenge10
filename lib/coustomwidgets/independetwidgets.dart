@@ -20,3 +20,20 @@ Widget seguivarText({required String text, required double fontsize})=>Text(
     fontWeight: FontWeight.bold
   ),
 );
+
+Widget productname({required String text,
+  required double fontsize,
+  required int maximumline, required bool bold,
+   required double opacity
+   })=>Text(
+  text,
+  overflow: TextOverflow.clip,
+  maxLines: maximumline,
+  style: TextStyle(
+      color: Colors.black.withOpacity(opacity),
+      fontFamily: 'SegUIVar',
+      fontSize: fontsize,
+      fontWeight: bold?  FontWeight.bold:FontWeight.normal
+  ),
+);
+

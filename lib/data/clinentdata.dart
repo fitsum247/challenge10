@@ -42,11 +42,6 @@ class GraphQLAPIClient {
 
 
 
-
-
-
-
-
     Future<QueryResult> mutation(String queries) async {
       final MutationOptions _options = MutationOptions(
         document: gql(queries),
@@ -109,6 +104,53 @@ class GraphQLAPIClient {
   } 
 }
 """;
+
+
+      Future<QueryResult> createOrderx({
+        required String    customerEmailPhone,
+        required String    customerFullName,
+        required String customerAddress1,
+        required String customerAddress2,
+        required String  customerCity,
+        required String country,
+        required String zipCode,
+        required String   productId,
+        required String  quantity,
+      }) async {
+        final MutationOptions _options = MutationOptions(
+          document: gql(
+              """
+ mutation createOrder(\$input: OrderInput!){
+  createOrder(input:\$input){
+    customerEmailPhone: $customerEmailPhone,
+    customerFullName: $customerFullName,
+    customerAddress1: $customerAddress1,
+    customerAddress2:$customerAddress2,  
+    customerCity: $customerCity,
+         country: $country,
+       orderItems {
+        orderId: none,
+       productId: $productId,
+       quantity: $quantity,
+    }
+      zipCode: $zipCode    
+  } 
+}
+"""
+
+
+          ),
+        );
+        return await client.value.mutate(_options);
+      }
+
+
+
+
+
+
+
+
 
 
 

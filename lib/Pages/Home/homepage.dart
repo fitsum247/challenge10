@@ -3,6 +3,8 @@ import 'package:challenge/data/clinentdata.dart';
 import 'package:challenge/data/orderes/OrderInput.dart';
 import 'package:challenge/data/orderes/OrderItemInput.dart';
 import 'package:flutter/material.dart';
+import 'package:graphql_flutter/graphql_flutter.dart';
+import 'package:package_info_plus/package_info_plus.dart';
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
 
@@ -16,23 +18,16 @@ class _HomeState extends State<Home> {
   GraphQLAPIClient ck = GraphQLAPIClient();
 
   late String oook = '';
-  List<OrderItemInput> o = [
-    OrderItemInput(orderId: '123', productId: '452', quantity: '2')
-  ];
-
-
-  OrderInput orderInput = OrderInput(orderItems: [ OrderItemInput(orderId: '123', productId: '452', quantity: '2')],
 
 
 
-      customerAddress2: 'no addres 2',
-      customerEmailPhone: '0921398378', zipCode: '21044',
-      customerFullName: 'fitsum', country: 'ethiopia', customerCity: 'addis ababa',
-      customerAddress1: 'bole');
+
+
+ late String appName = "";
   @override
   Widget build(BuildContext context) {
     return Container(
-
+      
     );
   }
 }

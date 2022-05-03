@@ -24,6 +24,10 @@ class CustomText extends StatelessWidget {
             fillColor: Colors.white,
             filled: true,
             border: InputBorder.none,
+            enabled: true,
+            enabledBorder: OutlineInputBorder(
+              borderSide: const BorderSide(color: Colors.grey, width: 2.0),
+              borderRadius: BorderRadius.circular(25.0),),
             focusedBorder:OutlineInputBorder(
               borderSide: const BorderSide(color: Colors.grey, width: 2.0),
               borderRadius: BorderRadius.circular(25.0),

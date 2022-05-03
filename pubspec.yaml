@@ -39,6 +39,18 @@ dependencies:
   back_button_interceptor: ^5.0.2
   loading_indicator: ^3.0.3
   graphql_flutter: ^5.1.0
+  ferry: ^0.10.4
+  gql_http_link: ^0.4.2
+  hive: ^2.1.0
+  ferry_hive_store: ^0.4.4
+  hive_flutter: ^1.1.0
+  gql_exec: ^0.4.0
+  gql: ^0.13.1
+  gql_link: ^0.4.2
+  package_info_plus: ^1.4.2
+  flutter_animated_dialog: ^2.0.1
+
+
 
 
 
@@ -53,6 +65,8 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^1.0.0
+  ferry_generator: ^0.5.0-dev.10
+  build_runner: ^2.1.10
 
 
 # For information on the generic Dart part of this file, see the
